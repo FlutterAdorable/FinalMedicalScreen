@@ -5,6 +5,8 @@ Human Diseases Checker App
 
 📱 Built using Flutter, this cross-platform app offers a user-friendly interface and a seamless experience across different devices.
 
+![splash_screen](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/1a6d6c42-0913-4cb6-9663-281263db4876)
+
 🔬 Key Features:
 
 Symptom Analysis: Users can input their symptoms and medical history, and the app's machine learning model will analyze the data to generate potential disease suggestions.
