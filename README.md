@@ -7,6 +7,19 @@ Human Diseases Checker App
 
 ![splash_screen](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/1a6d6c42-0913-4cb6-9663-281263db4876)
 
+![welcome_page](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/af6948fa-76c5-4442-8cd7-35deaaacf448)
+
+![login_page](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/ffaed42a-56b4-47c6-b10a-82e6b4db2f40)
+
+![home_page](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/b4cfe945-bfd9-4569-b5fc-a07ba210f0b1)
+
+![specific_page](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/dbf8b178-227d-4eb2-935f-333950c16c0b)
+
+![general_page1](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/634710f3-024a-4bd8-a5ac-9b8fa14886bd)
+
+![general_page2](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/6470bb56-d0a8-4731-86df-1c8e4575fb07)
+
+
 🔬 Key Features:
 
 Symptom Analysis: Users can input their symptoms and medical history, and the app's machine learning model will analyze the data to generate potential disease suggestions.
