@@ -133,7 +133,7 @@ class _ResidenceState extends State<Residence> {
                       height: 60,
                       onPressed: () {
                         if (_formKey.currentState!.validate()) {
-                          BspcList.add(SpcList(name: 'Work Type', value: _selectedResidence.toString() ));
+                          BspcList.add(SpcList(name: 'Residence', value: _selectedResidence.toString() ));
                           Navigator.push(
                               context,
                               MaterialPageRoute(

@@ -1,4 +1,5 @@
 import 'package:diseases_checker/moduls/home/homepage.dart';
+import 'package:diseases_checker/shared/components/constants.dart';
 import 'package:flutter/material.dart';
 
 class MigraineResult extends StatelessWidget {
@@ -33,10 +34,12 @@ class MigraineResult extends StatelessWidget {
         title: const Text('Results'),
       ),
       body: ListView.builder(
-        itemCount: selectedSymptoms.length,
+        itemCount: BspcList.length,
         itemBuilder: (context, index) {
           return ListTile(
-            title: Text(selectedSymptoms[index]),
+            leading: Text((index + 1).toString()),
+            title: Text(BspcList[index].name),
+            trailing: Text(BspcList[index].value),
           );
         },
       ),

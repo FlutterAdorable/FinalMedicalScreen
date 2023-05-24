@@ -1,6 +1,7 @@
 // ignore_for_file: library_private_types_in_public_api
 
 import 'package:diseases_checker/moduls/check/specific_check/symptoms/heart/thalassemia.dart';
+import 'package:diseases_checker/shared/components/constants.dart';
 import 'package:flutter/material.dart';
 
 class ExerciseInducedAngina extends StatefulWidget {
@@ -131,6 +132,8 @@ class _ExerciseInducedAnginaState extends State<ExerciseInducedAngina> {
                       height: 60,
                       onPressed: () {
                         if (_formKey.currentState!.validate()) {
+                          BspcList.add(SpcList(name: 'Angina Pectoris', value: hasFastingBloodSugar! ? 'Yes' : 'No' ));
+
                           Navigator.push(
                               context,
                               MaterialPageRoute(

@@ -160,6 +160,7 @@ class _HypertensionState extends State<Hypertension> {
                       height: 60,
                       onPressed: () {
                         if (_formKey.currentState!.validate()) {
+                          BspcList.clear();
                           BspcList.add(SpcList(name: 'Hypertension', value: hasFastingBloodSugar! ? 'Yes' : 'No' ));
                           Navigator.push(
                               context,
