@@ -5,8 +5,6 @@ Human Diseases Checker App
 
 📱 Built using Flutter, this cross-platform app offers a user-friendly interface and a seamless experience across different devices.
 
-![splash_screen](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/1a6d6c42-0913-4cb6-9663-281263db4876)
-
 ![welcome_page](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/af6948fa-76c5-4442-8cd7-35deaaacf448)
 
 ![login_page](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/ffaed42a-56b4-47c6-b10a-82e6b4db2f40)
@@ -16,8 +14,6 @@ Human Diseases Checker App
 ![specific_page](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/dbf8b178-227d-4eb2-935f-333950c16c0b)
 
 ![general_page1](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/634710f3-024a-4bd8-a5ac-9b8fa14886bd)
-
-![general_page2](https://github.com/Islam-Elsherif/check-your-self/assets/120138380/6470bb56-d0a8-4731-86df-1c8e4575fb07)
 
 
 🔬 Key Features:
